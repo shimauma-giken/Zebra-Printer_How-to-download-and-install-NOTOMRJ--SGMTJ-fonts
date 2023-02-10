@@ -19,4 +19,7 @@ SGMTJ-downloadable.TTF
   - Zebra Setup Utilities for Windows  
   - Windows ドライバ V8  
  2. Zebra Setup Utiities を使用して、各フォントファイルをプリンタに送付する。 
+ 3. インストールしたフォントのテスト印刷する。  
+ 　　参考： https://github.com/shimauma-giken/Zebra-Printer_Supported-Japanese-fonts-on-ZebraDesigner3-
+   
   

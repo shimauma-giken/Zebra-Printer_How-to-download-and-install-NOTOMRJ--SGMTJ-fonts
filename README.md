@@ -21,9 +21,19 @@ SGMTJ-downloadable.TTF
  2. Zebra Setup Utiities を使用して、各フォントファイルをプリンタに送付する。 
  3. インストールしたフォントのテスト印刷する。  
  　　参考： https://github.com/shimauma-giken/Zebra-Printer_Supported-Japanese-fonts-on-ZebraDesigner3-  
+   
+   
+  
+ 動画版  
+ Youtube  
+ １０分でマスター！  ゼブラプリンタに 無償の日本語フォントを ダウンロードし、 インストールする方法  
+  https://www.youtube.com/watch?v=iyXIX_L2U_M
   
  [23/02/10 追記]  
  USB-Mirrorでもインストール可。    
+ 
+ [23/03/07]  
+ Youtube Link 追記  
    
   
 ------
